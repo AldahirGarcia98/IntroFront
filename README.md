@@ -6,5 +6,6 @@ https://www.figma.com/file/zA5ItME5NlrHF7q5L05iWM/Prototyping-in-Figma?node-id=0
 # Interfaz de usuario
 https://www.figma.com/file/zA5ItME5NlrHF7q5L05iWM/Prototyping-in-Figma?node-id=0%3A1
 # BuyerPersona
-[BuyerPersona.pdf](https://github.com/AldahirGarcia98/IntroFront/files/8188405/BuyerPersona.pdf)
 https://1drv.ms/b/s!Ao_qiDGZ-zthdKQiEagZjO6333M?e=zMdXKu
+# Publico Objetivo
+https://miro.com/app/board/uXjVOHr42jI=/?invite_link_id=655942997843
